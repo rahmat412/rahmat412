@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rahmat
+- 👋 Hi, I’m Rahmatur Ramadhan
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Super-Resolution
 
